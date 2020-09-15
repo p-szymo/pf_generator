@@ -142,6 +142,8 @@ dmypy.json
 # folders
 
 # data
-/data
+/data/pf_corpus.txt
+/data/poems_df_clean_trim.pkl
 
 # neural net models
+/models
