@@ -11,6 +11,7 @@ In a larger context, I'd like to use the process here to train an LSTM model on 
 EARLY STAGES!!
 
 ## List of files
+- **archives** folder - scrap and backup files.
 - **data** folder - text files to use as a source for the generator.
 - **gens** folder - screenshots and text files of choice generations.
 - **.gitignore** - list of files to ignore.
